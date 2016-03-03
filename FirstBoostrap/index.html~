@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang "en">
+<head>
+	<meta charset "UTF-8">
+	<title>Document</title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimum-scale=1.0">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<link rel="stylesheet" href="estilos.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+
+</head>
+<body>
+	<header>
+		<div class="container">
+			<h1>Header</h1>
+		</div>
+	</header>
+
+	<section class="main">
+		<article>
+			<p>
+			Esto es un texto que puse.
+			</p>
+		</article>
+		<aside><p>
+			Este es el segundo texto.
+		</p></aside>
+	</section>
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>	
+</body>
+
+</html>
+
